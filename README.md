@@ -1,8 +1,5 @@
-##################################
-###-  most_efficient_cutting  -###
-##################################
-
 '''
+####  most_efficient_cutting  ####
 
 The checkio most_efficient_cutting mission V0.1
 
